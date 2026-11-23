@@ -25,7 +25,7 @@ Le fichier `Somme.java` est dans ce dossier.
 
 Import du dossier `src` créé dans Eclipse, puis exécution :
 
-![Exécution VS Code](04-vscode-execution.png)
+![Exécution VS Code](04-vscode-execution.png.jpeg)
 
 ## 5. Comparaison de mon expérience
 
