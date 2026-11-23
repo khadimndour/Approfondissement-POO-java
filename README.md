@@ -6,7 +6,7 @@
 
 ## 1. Versions du compilateur et de l'interpréteur
 
-![Versions](01-versions.png)
+![Versions](01-versions.png.jpeg)
 
 ## 2. Fichier source
 
@@ -26,14 +26,15 @@ public class Salutation {
 
 Avec un argument, puis sans argument :
 
-![Exécution](02-execution.png)
+![Exécution](02-execution.png.jpeg)
 
 Après ajout de l'affichage de la version de Java :
 
-![Exécution avec la version](03-execution-version.png)
+![Exécution avec la version](03-execution-version.png.jpeg)
 
 ## 4. Erreur de compilation volontaire
 
 J'ai retiré le point-virgule à la fin de la ligne `String nom = ...`. Message affiché par `javac` : `error: ';' expected`.
 
-![Erreur](04-erreur.png)
+
+![Erreur](04-erreur.png.jpeg)
