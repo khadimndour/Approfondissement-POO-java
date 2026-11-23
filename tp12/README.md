@@ -13,17 +13,13 @@ Le fichier `Somme.java` est dans ce dossier.
 
 ## 3. Eclipse
 
-Exécution du programme :
+![Installation d'Eclipse](01-version.png.jpeg)
 
-![Exécution Eclipse](01-eclipse-execution.png)
+![Exécution du programme](02-execution.png.jpeg)
 
-Débogage avec un point d'arrêt sur `total += i;` :
+![Résultat d'exécution](03-execution-version.png.jpeg)
 
-![Débogage Eclipse](02-eclipse-debug.png)
-
-Erreur volontaire (point-virgule retiré) :
-
-![Erreur Eclipse](03-eclipse-erreur.png)
+![Erreur](04-erreur.png.jpeg)
 
 ## 4. Visual Studio Code
 
